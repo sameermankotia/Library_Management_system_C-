@@ -58,7 +58,7 @@ Originally, this project used SQLite. However, as there were multiple tables and
 ## Future Features
 In the future, I am considering creating the following features:
 - **Reservation** - Allows users to reserve a book to loan even if it is currently loaned. As soon as the book is returned, the user is the first in line to loan it.
-- **Fines** - If a user holds onto a book past its due date, a fine system begins that slowly increases as time goes on. For example, 1 day over = £1, 7 days over = £5 etc.
+- **Fines** - If a user holds onto a book past its due date, a fine system begins that slowly increases as time goes on. For example, 1 day over = $1, 7 days over = $5 etc.
 - **Overdue Alert** - Alerts a user a day or two before their book is due, and on the day its due. This could be linked to their email, so they are emailed these alerts.
 
 
