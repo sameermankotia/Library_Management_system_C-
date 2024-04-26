@@ -24,25 +24,25 @@ The project is linked to a library manager database, that contains three tables.
 ### Start Screen
 The start screen prompts to either login as a user or as staff. If no user exists yet, a staff member needs to login and add a user. Either option blocks out the password using asterisks. The start screen is also where you can exit the program.
 <div align="center">
-  <img src="Images/StartScreen.png" alt="A start screen is displayed with the options to login as a user, login as a staff or exit." width="400" >  
-  <img src="Images/UserLogin.png" alt="The user login blocks out the pin using asterisks." width="400" >
+  <img src="StartScreen.png" alt="A start screen is displayed with the options to login as a user, login as a staff or exit." width="400" >  
+  <img src="UserLogin.png" alt="The user login blocks out the pin using asterisks." width="400" >
 </div>
 
 ### User Menu
 Once a user logs in successfully, the user menu appears. This gives the user the option to loan a book, return a book, search books or view all books. If the user is currently loaning 3 books, a message is printed saying that they are at the loan limit, and directs them back to the menu. The last option allows them to log out.
 <div align="center">
-  <img src="Images/UserMenu.png" alt="The user menu is displayed with options to loan a book, return a book, search books or view all books." width="400" >
+  <img src="UserMenu.png" alt="The user menu is displayed with options to loan a book, return a book, search books or view all books." width="400" >
 </div>
 
 ### Staff Menu
 Once a staff member logs in successfully, they staff menu appears. The options are split by which table they affect.
 The staff can add, remove, search or view all books. Staff can also add, remove, search or view all users. Lastly, staff can view all outstanding loans, and can renew loans. Like with the user menu, the last option allows them to log out.
 <div align="center">
-  <img src="Images/StaffMenu.png" alt="The staff menu is split into book inventory options, user options and loan options." width="800" >
+  <img src="StaffMenu.png" alt="The staff menu is split into book inventory options, user options and loan options." width="800" >
 </div>
 Here is an example of the View All Books option. Where the availability says no, it means that the book is currently being loaned by a user.
 <div align="center">
-  <img src="Images/ViewAllBooks.png" alt="All books are displayed with their ID, title, author, genre and availability." width="800" >
+  <img src="ViewAllBooks.png" alt="All books are displayed with their ID, title, author, genre and availability." width="800" >
 </div>
 
 ## Built With
