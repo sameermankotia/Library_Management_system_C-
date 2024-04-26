@@ -11,7 +11,6 @@
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#challenges">Challenges</a></li>
     <li><a href="#future-features">Future Features</a></li>
-    <li><a href="#contact">Contact</a>
   </ol>
 </details>
 
@@ -62,7 +61,4 @@ In the future, I am considering creating the following features:
 - **Fines** - If a user holds onto a book past its due date, a fine system begins that slowly increases as time goes on. For example, 1 day over = £1, 7 days over = £5 etc.
 - **Overdue Alert** - Alerts a user a day or two before their book is due, and on the day its due. This could be linked to their email, so they are emailed these alerts.
 
-## Contact
-<div align="center">
-  <a href="https://www.linkedin.com/in/nahdaa-jawed/">My LinkedIn</a>
-</div>
+
